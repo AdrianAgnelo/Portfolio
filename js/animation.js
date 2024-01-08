@@ -66,3 +66,31 @@ revelar.reveal('.skill-reveal', {
   distance: '120px',
   delay: '600'
 });
+
+// formulario //
+
+revelar.reveal('.form-reveal1', {
+  duration: 1500,
+  distance: '120px',
+  delay: '600'
+});
+revelar.reveal('.form-reveal2', {
+  duration: 1500,
+  distance: '120px',
+  delay: '750'
+});
+revelar.reveal('.form-reveal3', {
+  duration: 1500,
+  distance: '120px',
+  delay: '850'
+});
+revelar.reveal('.form-reveal4', {
+  duration: 1500,
+  distance: '120px',
+  delay: '950'
+});
+revelar.reveal('.form-reveal5', {
+  duration: 1500,
+  distance: '120px',
+  delay: '1050'
+});
